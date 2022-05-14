@@ -21,6 +21,9 @@ conda env create -f environment.yml
 conda env export > environment.yml --no-builds
 ```
 
+```
+pip list --format=freeze > requirements.txt
+```
 
 ## Appendix
 
