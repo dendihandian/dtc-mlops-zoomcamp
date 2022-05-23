@@ -15,7 +15,7 @@ The zoomcamp repository: https://github.com/DataTalksClub/mlops-zoomcamp
 conda env create -f environment.yml
 ```
 
-## Export Setup
+### Export Setup
 
 ```
 conda env export > environment.yml --no-builds
